@@ -1,1 +1,5 @@
 /target
+/.idea/.gitignore
+/.idea/guessing_game.iml
+/.idea/modules.xml
+/.idea/vcs.xml
